@@ -1,20 +1,7 @@
-markdown woah thats what md means wacky
+My name is Will Poirier
 
-# Is this a header?
-*This is italics?*
+I went to *Spaulding High School* in Barre, VT.
 
-**This is bold okay**
-## Very nice that I get real-time highlighting on this
-- sort of
-- kind of
-- maybe
+I am 18 years old
 
-1. I mean I guess
-2. It kinda works
-3. I think I'm doing this right
---------------------------------------------------
-That was a line that's crazy
-
-oops not in the hacker theme uh oh
-
-~~Too bad it'll never be useful~~ lol
+*****okay but 5 doesn't work, right?*****
