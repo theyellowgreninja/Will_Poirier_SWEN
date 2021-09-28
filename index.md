@@ -6,7 +6,7 @@ Too much coding gets too stressful to be super enjoyable though
 
 (photo goes here)
 
-[SWEN 101 homepage (the '1-stop-shop')](http://www.se.rit.edu/~swen-101/activities/GitHubIOIntro.html)
+[The RIT SE main site](https://www.rit.edu/computing/department-software-engineering)
 
 What I want to learn from this class:
 - Nothing
