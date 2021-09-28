@@ -12,3 +12,7 @@ markdown woah thats what md means wacky
 1. I mean I guess
 2. It kinda works
 3. I think I'm doing this right
+---
+That was a line that's crazy
+
+~~Too bad it'll never be useful~~ lol
