@@ -9,6 +9,7 @@ Too much coding gets too stressful to be super enjoyable though
 [The RIT SE main site](https://www.rit.edu/computing/department-software-engineering)
 
 What I want to learn from this class:
-- Nothing
-- I'm only in this class because I have to be
-- I'm sure it has its uses but I'm also sure that I would rather learn these all in a different format
+- To be perfectly honest I don't know what else I'm going to learn in this class
+- I understand that it's all necessary to all of the non-coding aspects of Software Engineering
+- But it's just kinda hard to know what that entails until I learn it
+- I don't know what I don't know, you know?
